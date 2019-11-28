@@ -2,43 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12d420c2-b4c1-450d-a2bb-8b9fcffed2cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/config/ConsumerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerSer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/impl/ConsumerSerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-consumer/src/test/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/ServerProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/controller/ProviderCtr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/service/ProviderSer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/service/impl/ProviderSerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-provider/src/test/java/com/example/serverprovider/ServerProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloudalibaba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerSer.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerCellProviderSer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/impl/ConsumerSerImpl.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,38 +31,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="8" />
-          <entry key="java" value="438" />
-          <entry key="md" value="27" />
+          <entry key="dummy" value="20" />
+          <entry key="java" value="718" />
+          <entry key="md" value="122" />
           <entry key="properties" value="145" />
-          <entry key="xml" value="172" />
+          <entry key="xml" value="220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="438" />
-          <entry key="Markdown" value="27" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="718" />
+          <entry key="Markdown" value="122" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="Properties" value="145" />
-          <entry key="XML" value="172" />
+          <entry key="XML" value="220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="19" />
-          <entry key="md" value="2" />
-          <entry key="properties" value="6" />
-          <entry key="xml" value="8" />
+          <entry key="java" value="23" />
+          <entry key="md" value="3" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="19" />
-          <entry key="Markdown" value="2" />
-          <entry key="Properties" value="6" />
-          <entry key="XML" value="8" />
+          <entry key="JAVA" value="23" />
+          <entry key="Markdown" value="3" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -100,31 +70,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/pom.xml">
+        <entry file="file://$PROJECT_DIR$/server-consumer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="187">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/ServerProviderApplication.java">
+        <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/config/ConsumerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,33 +93,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="82" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="82" />
+            <state relative-caret-position="432">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-consumer/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="6" selection-start-column="6" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server-provider/readme.md">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,28 +117,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerCellProviderSer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/service/ProviderSer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/service/impl/ProviderSerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="198">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,11 +131,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/controller/ProviderCtr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-provider/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="39" lean-forward="true" selection-start-column="24" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -234,17 +173,20 @@
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/example/nacosdiscoveryserver/controller/ProviderCtr.java" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/example/nacosdiscoveryserver/ServerProviderApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerSer.java" />
         <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/impl/ConsumerSerImpl.java" />
         <option value="$PROJECT_DIR$/server-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/config/ConsumerConfig.java" />
-        <option value="$PROJECT_DIR$/server-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/server-provider/pom.xml" />
         <option value="$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/ServerProviderApplication.java" />
-        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java" />
         <option value="$PROJECT_DIR$/server-consumer/readme.md" />
         <option value="$PROJECT_DIR$/server-provider/readme.md" />
+        <option value="$PROJECT_DIR$/server-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/server-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerSer.java" />
+        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerCellProviderSer.java" />
+        <option value="$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -296,7 +238,113 @@
             <path>
               <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
               <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudalibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudalibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="server-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,7 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServerConsumerApplication">
+  <component name="RunManager" selected="Spring Boot.ServerProviderApplication">
     <configuration name="ServerConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="server-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.serverconsumer.serverconsumer.ServerConsumerApplication" />
@@ -361,12 +409,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574843239685</updated>
-      <workItem from="1574843241754" duration="10573000" />
+      <workItem from="1574843241754" duration="12140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10573000" />
+    <option name="totallyTimeSpent" value="12140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -380,7 +428,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.47557002" />
+      <window_info anchor="bottom" id="Terminal" weight="0.38762215" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.38720173" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -389,14 +437,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4251627" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5715835" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.24212812" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="BPMNPalette" />
       <window_info anchor="right" id="Mybatis datasource" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.33635396" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.15191898" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Bean Validation" />
@@ -412,13 +460,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerSer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/impl/ConsumerSerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -442,30 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="21" selection-start-line="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -493,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/ServerProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -514,26 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/controller/ProviderCtr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="82" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -555,6 +545,79 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/ServerConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" lean-forward="true" selection-start-column="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-provider/src/main/java/com/example/serverprovider/controller/ProviderCtr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/controller/ConsumerCtr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-consumer/src/main/java/com/example/serverconsumer/serverconsumer/service/ConsumerCellProviderSer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -613,12 +676,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springcloudalibaba</last-edited>
+          <last-edited>Spring|server-provider</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
